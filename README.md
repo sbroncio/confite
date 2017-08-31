@@ -1,13 +1,15 @@
 # README
 
 
-It es the tirst modification of this file
+It is the first modification of this file
 
 * Ruby version - 2.3.3
 
 * System dependencies   Debian-9
 
 At this moment is all I can say, I hope more later
+
+a new modification of this file
 
 * Configuration
 

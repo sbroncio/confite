@@ -8,7 +8,8 @@ trying jenkins
 vamos a probar las modificaciones
 corregimos rvm use 2.3.3@confite , borramos
 borramos bundle install
-changing fro  https to ssh  pcol
+changing fro  https to ssh  protocol
+cambiamos en  config
 
 * Ruby version - 2.3.3
 

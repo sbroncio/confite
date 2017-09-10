@@ -6,6 +6,7 @@ It is the first modification of this file
 trying jenkins
 
 vamos a probar las modificaciones
+corregimos rvm use 2.3.3@confite , borramos
 
 * Ruby version - 2.3.3
 

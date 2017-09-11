@@ -11,6 +11,7 @@ borramos bundle install
 changing fro  https to ssh  protocol
 cambiamos en  config y añadimos cd .
 no fue es el error
+va ser otro de pruea
 
 * Ruby version - 2.3.3
 

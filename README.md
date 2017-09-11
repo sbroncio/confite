@@ -9,7 +9,7 @@ vamos a probar las modificaciones
 corregimos rvm use 2.3.3@confite , borramos
 borramos bundle install
 changing fro  https to ssh  protocol
-cambiamos en  config
+cambiamos en  config y añadimos cd .
 
 * Ruby version - 2.3.3
 

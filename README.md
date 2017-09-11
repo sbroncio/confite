@@ -13,6 +13,7 @@ cambiamos en  config y añadimos cd .
 no fue es el error
 va ser otro de prueba
 bundle exec
+bundle install
 
 * Ruby version - 2.3.3
 
